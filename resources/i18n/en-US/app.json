@@ -1,0 +1,23 @@
+{
+    "title": "NX Title Fetcher",
+
+    "tabs": {
+        "install": "Install",
+        "popups": "Popups, notifications and dialogs",
+        "hos_layout": "Horizon layouts",
+        "misc_layouts": "Misc. layouts",
+        "misc_components": "Misc. components",
+        "misc_tools": "Misc. dev tools",
+        "about": "About NX Title Fetcher"
+    },
+
+    "welcome": "Welcome to NX Title Fetcher! Press the Install button to get started.",
+
+    "about": {
+        "title": "NX Title Fetcher",
+        "description": "A tool for installing Switch title information (like name and logo) to PC.",
+        "github": "Find it on github.com/SamoZ256/nx-title-fetcher",
+        "licence": "Licensed under Apache 2.0",
+        "logo_credit": "Logo by @MeganRoshelle"
+    }
+}

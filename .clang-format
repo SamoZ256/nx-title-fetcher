@@ -1,21 +1,5 @@
-﻿---
-AccessModifierOffset: -2
-AlignConsecutiveAssignments: 'true'
-BasedOnStyle: WebKit
-BreakBeforeBraces: Allman
-IncludeBlocks: Regroup
-IncludeCategories: 
-  - Regex: '^<borealis/.*\.hpp>'
-    Priority: 2
-  - Regex: '^<.*\.h>'
-    Priority: 1
-  - Regex: '^<.*'
-    Priority: 2
-  - Regex: '.*'
-    Priority: 3
-IndentCaseLabels: 'true'
+DerivePointerAlignment: false
 PointerAlignment: Left
-SortIncludes: 'true'
-Standard: Cpp11
-
-...
+TabWidth: 4
+IndentWidth: 4
+AlwaysBreakTemplateDeclarations: Yes

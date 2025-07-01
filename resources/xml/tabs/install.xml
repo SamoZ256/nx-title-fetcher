@@ -1,0 +1,39 @@
+<brls:Box
+    width="auto"
+    height="auto">
+
+    <brls:Box
+        width="auto"
+        height="auto"
+        axis="column"
+        paddingLeft="@style/brls/tab_frame/content_padding_sides"
+        paddingRight="@style/brls/tab_frame/content_padding_sides"
+        paddingTop="@style/brls/tab_frame/content_padding_top_bottom"
+        paddingBottom="@style/brls/tab_frame/content_padding_top_bottom">
+
+        <brls:Label
+            width="auto"
+            height="auto"
+            text="@i18n/app/welcome"
+            marginBottom="10px" />
+
+        <brls:Box
+            width="100%"
+            height="auto"
+            axis="row"
+            marginBottom="30px">
+
+            <brls:Button
+                id="install_button"
+                width="auto"
+                height="auto"
+                style="primary"
+                grow="1.0"
+                marginRight="30px"
+                text="@i18n/hints/install" />
+
+        </brls:Box>
+
+    </brls:Box>
+
+</brls:Box>
